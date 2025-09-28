@@ -3,10 +3,11 @@ import 'package:flutter/material.dart';
 // import 'basic_widgets/image_widget.dart';
 // import 'basic_widgets/loading_cupertino.dart';
 // import 'basic_widgets/fab_widget.dart';
-import 'basic_widgets/scaffold_widget.dart';
+// import 'basic_widgets/scaffold_widget.dart';
+import 'basic_widgets/dialog_widget.dart';
 
 void main() {
-  runApp(const ScaffoldWidget());
+  runApp(const DialogWidget());
 }
 
 class MyApp extends StatelessWidget {
